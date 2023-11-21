@@ -1,4 +1,4 @@
-*** Desafío ***
+***Desafío***
 En este desafío, deberás crear una calculadora básica utilizando
 HTML, CSS y JavaScript. La calculadora debe ser capaz de realizar
 operaciones aritméticas simples, como suma, resta, multiplicación y
